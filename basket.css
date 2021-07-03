@@ -1,0 +1,18 @@
+body{
+    background-color: #ffb640;
+background-image: linear-gradient(315deg, #fbb034 0%, #ffdd00 74%);
+font-family: monospace;
+}
+.heading{
+    font-weight:bolder ;
+    margin: 10px;
+    padding: 10px;
+}
+canvas{
+    border: 5px solid;
+    margin-top: 25px;
+    box-shadow: 10px 10px 10px red;
+    border-radius: 10px;
+    border-width: 2px;
+    
+}
